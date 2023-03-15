@@ -1,0 +1,5 @@
+viktor==13.8.0
+scikit-image
+openpiv
+plotly
+imageio
