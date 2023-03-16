@@ -1,0 +1,6 @@
+
+.vscode/PythonImportHelper-v2-Completion.json
+*.pyc
+venv/*/**
+*.pyc
+venv/Lib/site-packages/*
